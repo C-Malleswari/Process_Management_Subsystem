@@ -5,9 +5,12 @@ This repository contains example C programs and resources that demonstrate key c
 ---
 
 ##  Folder Structure
+##  process_management Directory Structure
+
+
 
 process_management/
-├── child_process.c # Creating child process using fork()
+├── [child_process.c] (# Creating child process using fork())
 ├── chroot_systemcall.c # Using chroot() system call
 ├── cow_fork.c # Copy-On-Write behavior in fork()
 ├── create_zombie_process.c # Demonstrating zombie process

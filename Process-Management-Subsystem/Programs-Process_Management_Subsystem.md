@@ -1,7 +1,5 @@
 # Process Management Code Collection
 
-This document lists all `.c` source files from the ZIP archive with their contents preserved as-is.
-
 ## `process_management/child_process.c`
 
 ```c
